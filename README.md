@@ -50,3 +50,6 @@ Check the model prediction by sending the below json text using postman REST API
 
 ```
 
+## Building Docker Images
+
+Dockers helps in setting base configurations which will eliminate all the issues like configuration issues, hardware issues, OS issues
