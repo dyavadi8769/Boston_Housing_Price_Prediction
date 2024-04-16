@@ -3,3 +3,5 @@ NumPy
 Scikit-Learn
 Flask
 matplotlib
+seaborn
+Scalar

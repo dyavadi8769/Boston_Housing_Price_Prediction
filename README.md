@@ -17,3 +17,4 @@ conda create -p venv python==3.11.7 -y
 ```
 Activate the virtual environment in the cmd prompt using: conda activate venv/
 ```
+
