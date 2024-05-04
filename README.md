@@ -26,6 +26,23 @@ Run the command in command prompt:
 python app.py
 ```
 
+# Attributes
+
+1. CRIM - Crime Rate Per Capita
+2. ZN - Proportion of Residential Land Zoned
+3. INDUS - Proportion of Non-Retail Business Acres
+4. CHAS - Charles River Adjacency (Dummy Variable)
+5. NOX - Nitric Oxides Concentration (ppm)
+6. RM - Average Rooms Per Dwelling
+7. AGE - Proportion of Pre-1940 Built Homes
+8. DIS - Weighted Distance to Employment Centers
+9. RAD - Accessibility to Radial Highways Index
+10. TAX - Property Tax Rate Per $10,000
+11. PTRATIO - Pupil-Teacher Ratio by Town
+12. B - Proportion of Black Residents (Transformed)
+13. LSTAT - Percentage of Lower Status Population
+
+
 Check the model prediction by sending the below json text using postman REST API at http://127.0.0.1:5000:
 
 

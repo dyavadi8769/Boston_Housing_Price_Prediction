@@ -31,7 +31,7 @@ def predict():
     final_input = scal.transform(np.array(data).reshape(1,-1))
     print(final_input)
     output= regmodel.predict(final_input)[0]
-    return render_template("home.html", prediction_text="The Boston House price prediction is {}".format(output))
+    return render_template("home.html", prediction_text="The Boston House Price Prediction is {}".format(output))
 
 
 if __name__=="__main__":
