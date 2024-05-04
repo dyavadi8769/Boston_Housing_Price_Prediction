@@ -47,8 +47,9 @@ This is a comprehensive machine learning project focused on predicting housing p
 conda create -p venv python==3.11.7 -y
 ```
 
+Activate the virtual environment in the cmd prompt using
 ```
-Activate the virtual environment in the cmd prompt using: conda activate venv/
+conda activate venv/
 ```
 
 
