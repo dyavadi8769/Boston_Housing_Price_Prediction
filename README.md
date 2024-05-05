@@ -16,7 +16,7 @@ This is a comprehensive machine learning project focused on predicting housing p
 6. CI/CD Pipeline: Automated updates and deployment through GitHub Actions.
 
 
-## Attributes
+## Independent Features
 
 1. CRIM - Crime Rate Per Capita
 2. ZN - Proportion of Residential Land Zoned
